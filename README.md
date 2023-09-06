@@ -1,4 +1,4 @@
-/#Projeto apresentação pessoal Gilson Ravaiani 06/09/2023
+#Projeto apresentação pessoal Gilson Ravaiani 06/09/2023
 
 ##Criei esse repositório para colocar em prática os conhecimentos que estou adquirindo em HTML, CSS e JavaScript.
 
@@ -20,10 +20,8 @@ Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavr
 
 O amanhã não seri mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
 
-Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa afazer algo e não dá vontade de parar. 
+Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa afazer algo e não dá vontade de parar.
 
 As vezes já deitei pra dormir e levantei pra continuar algo que comecei.
 
 **O esforço para encontrar a solução é algo natural e genial, pois existe uma motivação incrível nisso.**
-
-
