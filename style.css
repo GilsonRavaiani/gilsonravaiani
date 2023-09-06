@@ -20,11 +20,10 @@ header {
 #fonte{
   background-color: rgb(88, 158, 216);
   display: flex;
-  padding: 20px;
+  padding: 6px;
   justify-content: space-around;
   border-style: inset;
-  border-color: red;
-   
+  border-color: rgb(22, 21, 21);   
 }
 
 h1{
