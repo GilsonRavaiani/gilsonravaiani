@@ -1,2 +1,29 @@
-# gilsonravaiani
- Repositório criado para apresentação de minhas experiências profissionais e redes sociais, criado a princípio com HTML e CSS 
+/#Projeto apresentação pessoal Gilson Ravaiani 06/09/2023
+
+##Criei esse repositório para colocar em prática os conhecimentos que estou adquirindo em HTML, CSS e JavaScript.
+
+Já tentei várias vezes encarar essa área e nunca tive algo que me inpulsionasse pra isso.
+
+Hoje aos 44 anos estou encontrando forças e um algo a mais para seguir e não parar.
+
+O difícil sempre existirá, mas o impossível nunca. Pois acredito em um Deus que me capacita(minha opinião em relação ao meu desenvolvimento pessoal e não questiono a opinião de outrem)
+
+Meu começo em HTML foi bem animador, tenho me dedicado a cada dia.
+
+O CSS estou percebendo ser um infinito de opções e necessário dedicação para termos um diferencial.
+
+Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavras, me confunde as vezes e acho exagerado a escrita.
+
+**Mas tenho aprendido que a prática realmente leva a perfeição**
+
+![HTML_CSS_JavaScript](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/a6a3605d-e66b-4471-87fb-6e893545a32a)
+
+O amanhã não seri mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
+
+Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa afazer algo e não dá vontade de parar. 
+
+As vezes já deitei pra dormir e levantei pra continuar algo que comecei.
+
+**O esforço para encontrar a solução é algo natural e genial, pois existe uma motivação incrível nisso.**
+
+
