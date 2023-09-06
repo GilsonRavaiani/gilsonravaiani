@@ -17,6 +17,16 @@ header {
     
 }
 
+#fonte{
+  background-color: rgb(88, 158, 216);
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+  border-style: inset;
+  border-color: red;
+   
+}
+
 h1{
   padding: 50px;
 }
@@ -87,11 +97,11 @@ section{
   
  }
 
- footer{
-  
-   
+ footer{ 
    
     padding: 10px; /* Espaçamento interno */
 }
+
+
 
  
