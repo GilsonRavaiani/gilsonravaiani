@@ -1,5 +1,5 @@
 // Seletor para o botão de retorno
-var botaoRetornar = document.getElementById("botao-retornar");
+let botaoRetornar = document.getElementById("botao-retornar");
 
 // Adiciona um evento de clique ao botão
 botaoRetornar.addEventListener("click", function() {
