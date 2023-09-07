@@ -1,10 +1,3 @@
-
-let elementH1 = document.querySelector("h1");
-
-elementH1.style.color = "blue"
-
-
-
 let botaoRetornar = document.getElementById("botao-retornar");
 
 botaoRetornar.addEventListener("click", function() {
