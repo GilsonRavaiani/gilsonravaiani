@@ -1,24 +1,23 @@
-//let botaoRetornar = document.getElementById("botao-retornar");
+//let elementH1 = document.querySelector("h1")
 
-//botaoRetornar.addEventListener("click", function() {
+//console.log(elementH1)
 
-//alert("Retornando a página principal")
+//elementH1.innerText = `Gilson Ravaiani` 
 
-//window.location.href = "index.html";
+let botaoRetornar = document.getElementById("botao-retornar");
 
-//});
+botaoRetornar.addEventListener("click", function() {
 
-//const botao = document.getElementById("botao-retornar");
+alert("Retornando a página principal")
 
-//botao.addEventListener("mouseenter", () => {
+window.location.href = "index.html";
 
-//    botao.style.cursor = "pointer";
-//});
+});
 
-let elementH1 = document.querySelector("h1")
+const botao = document.getElementById("botao-retornar");
 
-console.log(elementH1)
+botao.addEventListener("mouseenter", () => {
 
-//main.appendChild(elementH1)
+    botao.style.cursor = "pointer";
+});
 
-elementH1.innerText = `Gilson Ravaiani` 
