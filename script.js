@@ -14,8 +14,3 @@ botao.addEventListener("mouseenter", () => {
 
     botao.style.cursor = "pointer";
 });
-
-let elementoH1 = document.querySelector("h1");
-
-console.log(elementoH1);
-
