@@ -20,10 +20,13 @@ header {
 #fonte{
   background-color: rgb(88, 158, 216);
   display: flex;
-  padding: 6px;
+  padding: 10px;
   justify-content: space-around;
   border-style: inset;
-  border-color: rgb(22, 21, 21);   
+  
+}
+.fonte{
+  font-size: x-large;
 }
 
 h1{
@@ -52,8 +55,6 @@ h1{
   height: 130px;
   width: 200px;
   border-radius: 10%;
-   
-
 }
 
 a{
