@@ -16,4 +16,5 @@ botao.addEventListener("mouseenter", () => {
 });
 
 let elementoH1 = document.querySelector("h1");
+
 console.log(elementoH1);
