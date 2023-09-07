@@ -22,9 +22,9 @@ header {
   display: flex;
   padding: 10px;
   justify-content: space-around;
-  border-style: inset;
-  
+  border-style: inset;  
 }
+
 .fonte{
   font-size: x-large;
 }
