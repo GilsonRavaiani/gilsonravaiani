@@ -1,6 +1,6 @@
-#Projeto apresentação pessoal Gilson Ravaiani 06/09/2023
+Projeto apresentação pessoal Gilson Ravaiani 06/09/2023
 
-##Criei esse repositório para colocar em prática os conhecimentos que estou adquirindo em HTML, CSS e JavaScript.
+Criei esse repositório para colocar em prática os conhecimentos que estou adquirindo em HTML, CSS e JavaScript.
 
 Já tentei várias vezes encarar essa área e nunca tive algo que me inpulsionasse pra isso.
 
@@ -18,7 +18,7 @@ Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavr
 
 ![HTML_CSS_JavaScript](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/a6a3605d-e66b-4471-87fb-6e893545a32a)
 
-O amanhã não seri mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
+O amanhã não sei mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
 
 Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa afazer algo e não dá vontade de parar.
 
