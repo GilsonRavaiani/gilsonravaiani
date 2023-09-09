@@ -5,8 +5,14 @@
 }
 
 body{
-  background-color: rgb(100, 87, 223);
+  /* background-color: rgb(100, 87, 223); */
+  
+    background-image: url(https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/bd70641e-d4f5-43ac-9844-e7e2d045c21c); /* Substitua pelo URL ou caminho da sua imagem */
+    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento body */
+    background-repeat: no-repeat; /* Evita a repetição da imagem */
+    background-attachment: fixed; /* Mantém a imagem fixa enquanto a página rola */
 }
+
 
 footer {
     background-color: #333;
