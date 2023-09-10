@@ -25,3 +25,15 @@ Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo qu
 As vezes já deitei pra dormir e levantei pra continuar algo que comecei.
 
 **O esforço para encontrar a solução é algo natural e genial, pois existe uma motivação incrível nisso.**
+
+A muitos anos dedicado a TI, projetos e novidades no mercado.
+
+Sempre me capacitando e atualizando em referencia as novas tecnologias.
+
+![clientes](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/8f009d12-0ee7-4a51-aa0a-4eb2deb1eec4)
+
+Oportunidade de ter trabalhado nas melhores empresas e vivido os momentos mais desejados como profissional.
+![Empresas](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/4b4aa7f9-6629-4e26-a904-166419e0e38c)
+
+
+
