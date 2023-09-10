@@ -20,7 +20,7 @@ Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavr
 
 O amanhã não sei mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
 
-Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa afazer algo e não dá vontade de parar.
+Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa a fazer algo e não dá vontade de parar.
 
 As vezes já deitei pra dormir e levantei pra continuar algo que comecei.
 
@@ -35,5 +35,12 @@ Sempre me capacitando e atualizando em referencia as novas tecnologias.
 Oportunidade de ter trabalhado nas melhores empresas e vivido os momentos mais desejados como profissional.
 ![Empresas](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/4b4aa7f9-6629-4e26-a904-166419e0e38c)
 
+Uma de minhas qualidades que acredito ter é a capacidade de me adaptar a novas realidades.
+
+Um aprendizado constante e motovador todos os dias.
+
+Vou seguir mais uma parte dessa projeto.
+
+Quero me especializar em JavaScript, pois cada dia que passa descubro mais um pouco desse infinito.
 
 
