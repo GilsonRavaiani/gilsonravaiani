@@ -33,14 +33,11 @@ Sempre me capacitando e atualizando em referencia as novas tecnologias.
 ![clientes](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/8f009d12-0ee7-4a51-aa0a-4eb2deb1eec4)
 
 Oportunidade de ter trabalhado nas melhores empresas e vivido os momentos mais desejados como profissional.
+
 ![Empresas](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/4b4aa7f9-6629-4e26-a904-166419e0e38c)
 
 Uma de minhas qualidades que acredito ter é a capacidade de me adaptar a novas realidades.
 
-Um aprendizado constante e motovador todos os dias.
+Um aprendizado constante e motivador todos os dias.
 
-Vou seguir mais uma parte dessa projeto.
-
-Quero me especializar em JavaScript, pois cada dia que passa descubro mais um pouco desse infinito.
-
-
+Vou seguir mais uma parte desse projeto.
