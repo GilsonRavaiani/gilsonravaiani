@@ -52,6 +52,13 @@ body {
   transition: opacity 0.3s ease-in-out;
 }
 
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+    color: black;
+    
+}
 
  footer {
     background-color: #333;
