@@ -22,12 +22,15 @@ body {
   margin: 10px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   overflow: hidden;
+
 }
 
 .photo img {
   width: 100%;
+  max-width: min-content;
   height: auto;
   display: block;
+  border-radius: 5%;
 }
 
 .photo:hover {
