@@ -6,9 +6,19 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #bebed8;
+  background-color: #605d8d;
   margin: 0;
-  padding: 0;
+  padding: 1px;
+}
+
+h1{
+  padding-top: 2%;
+}
+
+p{
+  /* margin-bottom: 1%; */
+ padding: 0.5%;
+
 }
 
 .gallery {
