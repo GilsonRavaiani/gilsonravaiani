@@ -18,6 +18,8 @@ Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavr
 
 ![HTML_CSS_JavaScript](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/a6a3605d-e66b-4471-87fb-6e893545a32a)
 
+![aws_cloud](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/5ba90db2-1289-4c71-a88c-fab67f7374ca)
+
 O amanhã não sei mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
 
 Amo desenvolver, apesar de estar no começo. Mas pra quem desenvolve, eu digo que é aquela vontade quando você começa a fazer algo e não dá vontade de parar.
