@@ -37,6 +37,12 @@ main{
   padding: 2%;
 }
 
+figcaption{
+  font-weight: bold;
+  text-align: center;
+  font-size: 150%;
+}
+
 /* body{
   background-color: rgb(230, 158, 25);
   background-image: url(https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/27371300-bf15-4827-bd0d-c1ff5da2134e);
