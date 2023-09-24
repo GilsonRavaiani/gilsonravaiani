@@ -36,7 +36,7 @@ Sempre me capacitando e atualizando em referencia as novas tecnologias.
 
 Oportunidade de ter trabalhado nas melhores empresas e vivido os momentos mais desejados como profissional.
 
-![Empresas](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/4b4aa7f9-6629-4e26-a904-166419e0e38c)
+![Empresas](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/ff5c2e09-e7f4-4194-a768-61a2c5a28896)
 
 Uma de minhas qualidades que acredito ter é a capacidade de me adaptar a novas realidades.
 
