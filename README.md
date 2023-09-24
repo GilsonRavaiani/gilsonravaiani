@@ -50,7 +50,7 @@ Tudo na vida é questão de se dedicar, mas se dedicar a que?
 
 Hoje são tantas as áreas que podemos encontrar abrigo que por um momento podemos nos perder.
 
-Desde muito novo, sempre busquei conhecer o melhor, de uma forma melhor.
+Desde muito novo, sempre busquei conhecer o melhor e de uma forma melhor.
 
 Alguns exemplos de estar buscando sempre a melhoria são:
 
