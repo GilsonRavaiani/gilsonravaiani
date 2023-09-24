@@ -43,3 +43,19 @@ Uma de minhas qualidades que acredito ter é a capacidade de me adaptar a novas 
 Um aprendizado constante e motivador todos os dias.
 
 Vou seguir mais uma parte desse projeto.
+
+24/09/2023
+
+Tudo na vida é questão de se dedicar, mas se dedicar a que?
+
+Hoje são tantas as áreas que podemos encontrar abrigo que por um momento podemos nos perder.
+
+Desde muito novo, sempre busquei conhecer o melhor, de uma forma melhor.
+
+Alguns exemplos de estar buscando sempre a melhoria são:
+
+Com meus 7 anos saia para vender mexerica no carrinho de mão, consegui comprar saquinho de rede para poder facilitar a venda;
+
+Vendia Chup-Chup de kisuco e com dinheiro comecei a fazer com leite e frutas...
+
+E por ai segue até hoje me aperfeiçoando.
