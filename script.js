@@ -6,12 +6,12 @@
 
 let botaoRetornar = document.getElementById("botao-retornar");
 
-botaoRetornar.addEventListener("click", function() {
+botaoRetornar.addEventListener("click", function () {
 
 
-alert("Retornando a página principal")
+    alert("Obrigado por me visitar, retornando a página principal")
 
-window.location.href = "index.html";
+    window.location.href = "index.html";
 
 });
 
