@@ -1,3 +1,7 @@
+![HTML_CSS_JavaScript](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/a6a3605d-e66b-4471-87fb-6e893545a32a)
+
+![Capa](https://github.com/GilsonRavaiani/gilsonravaiani/blob/main/Imagens/Capa.jpg)
+
 Projeto apresentação pessoal Gilson Ravaiani 06/09/2023
 
 Criei esse repositório para colocar em prática os conhecimentos que estou adquirindo em HTML, CSS e JavaScript.
@@ -15,10 +19,6 @@ O CSS estou percebendo ser um infinito de opções e necessário dedicação par
 Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavras, me confunde as vezes e acho exagerado a escrita.
 
 **Mas tenho aprendido que a prática realmente leva a perfeição**
-
-![HTML_CSS_JavaScript](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/a6a3605d-e66b-4471-87fb-6e893545a32a)
-
-![Capa](https://github.com/GilsonRavaiani/gilsonravaiani/blob/main/Imagens/Capa.jpg)
 
 O amanhã não sei mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
 
