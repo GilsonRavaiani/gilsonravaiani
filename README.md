@@ -18,7 +18,7 @@ Já o JavaScript(hoje 06/09/2023) estou um pouco assustado pela forma das palavr
 
 ![HTML_CSS_JavaScript](https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/a6a3605d-e66b-4471-87fb-6e893545a32a)
 
-![Capa]([https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/5ba90db2-1289-4c71-a88c-fab67f7374ca](https://github.com/GilsonRavaiani/gilsonravaiani/blob/main/Imagens/Capa.jpg))
+![Capa](https://github.com/GilsonRavaiani/gilsonravaiani/blob/main/Imagens/Capa.jpg)
 
 O amanhã não sei mas estou fazendo meu melhor hoje e com muita esperança de colher frutos.
 
