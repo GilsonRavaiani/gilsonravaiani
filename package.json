@@ -1,0 +1,12 @@
+{
+    "name": "meu-site",
+    "version": "1.0.0",
+    "description": "Meu site no Docker",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
