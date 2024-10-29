@@ -59,13 +59,3 @@ Com meus 7 anos saia para vender mexerica no carrinho de mão, consegui comprar 
 Vendia Chup-Chup de kisuco e com dinheiro comecei a fazer com leite e frutas...
 
 E por ai segue até hoje me aperfeiçoando.
-
-## Testando monitoramento com Jenkins
-
-211024 08:43 Testes Jenkins
-
-251024 06:44 Testes Jenkins
-
-251024 06:48 Testes Jenkins automático
-
-251024 15:30 Testes Jenkins automático
