@@ -4,25 +4,24 @@
   box-sizing: border-box;
 }
 
-body{
+body {
   /* background-color: rgb(100, 87, 223); */
-  
-    background-image: url(https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/bd70641e-d4f5-43ac-9844-e7e2d045c21c); /* Substitua pelo URL ou caminho da sua imagem */
-    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento body */
-    background-repeat: no-repeat; /* Evita a repetição da imagem */
-    background-attachment: fixed; /* Mantém a imagem fixa enquanto a página rola */
+  background-image: url(https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/bd70641e-d4f5-43ac-9844-e7e2d045c21c); /* Substitua pelo URL ou caminho da sua imagem */
+  background-size: cover; /* Ajusta a imagem para cobrir todo o elemento body */
+  background-repeat: no-repeat; /* Evita a repetição da imagem */
+  background-attachment: fixed; /* Mantém a imagem fixa enquanto a página rola */
+  min-height: 100vh; /* Ensure the body takes at least the full viewport height */
+  display: flex;
+  flex-direction: column;
 }
 
-
-
-
 footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    font-size: 10px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: relative; /* Use relative positioning */
+  margin-top: auto; /* Push the footer to the bottom */
+  width: 100%;
+  font-size: 10px;
 }
