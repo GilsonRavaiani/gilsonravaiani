@@ -9,8 +9,25 @@ body {
 
 h1 {
     text-align: center; /* Centraliza o título h1 */
+    color: #ffffff; /* Define a cor do texto como branca */
 }
 
+div.video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #f0efef;
+}
+
+p {
+    color: #f0efef;
+    text-align: center; /* Centraliza o texto dos parágrafos */
+}
 .container {
     display: flex;
     flex-wrap: wrap;
