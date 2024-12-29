@@ -37,7 +37,7 @@ p {
 
 .video {
     flex: 1 1 calc(25% - 40px); /* Ajuste para 4 vídeos lado a lado */
-    margin: 10px;
+    margin: 20px; /* Aumenta o espaço entre os vídeos */
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
