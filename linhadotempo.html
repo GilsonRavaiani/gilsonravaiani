@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linha do Tempo</title>
+    <style>
+        .timeline {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .timeline::after {
+            content: '';
+            position: absolute;
+            width: 6px;
+            background-color: #000;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            margin-left: -3px;
+        }
+        .container {
+            padding: 10px 40px;
+            position: relative;
+            background-color: inherit;
+            width: 50%;
+            left: 50%;
+        }
+        .container::after {
+            content: '';
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            left: -16px;
+            background-color: white;
+            border: 4px solid #000;
+            top: 15px;
+            border-radius: 50%;
+            z-index: 1;
+        }
+        .content {
+            padding: 20px 30px;
+            background-color: white;
+            position: relative;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="timeline">
+
+    <h1>Página em construção</h1>
+   
+    <div class="container">
+        <div class="content">
+            <h2>2004</h2>
+            <p>Iniciei minha carreira em telecomunicações, onde tive a oportunidade com início da internet banda larga Velox(OI) atuar na instalação e manutenção (Hardware, Software e internet) com tecnologia ADSL (Linha Digital Assimétrica para Assinante), computadores com processadores AMD K6, Intel Pentium III e Celeron. Era novidade e a responsabilidade imensa, ao qual lidamos com a ansiedade do cliente, apresentação do novo produto e soluções de problemas nunca vivenciado</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2>2008</h2>
+            <p> Com a chegada da ACOM TV SA em Juiz de Fora, trouxe o novo sistema MMDS (Multichannel Multipoint Distribution Service) uma tecnologia de transmissão de dados sem fio que utilizava frequências UHF para fornecer acesso à internet e programação televisiva em áreas onde o cabeamento estruturado não era viável economicamente. Ele funcionava transmitindo sinais de um uplink para um satélite, que então enviava os sinais para um headend, processando e distribuindo-os para os assinantes via antenas especiais.</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2>2010</h2>
+            <p>Meu início na área de tecnologia da informação foi em um projeto do Governo de Minas Gerais pelo FNDE (Fundo Nacional de Desenvolvimento da Educação), instalando e configurando multi-estações Linux nas escolas. Projeto temporário que atuei pela empresa Scopus (Bradesco) e devido ao sucesso, fui convidado a fazer parte do time para novos projetos. Alguns desses projetos estão na aba "PROJETOS" página inicial.</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2>2015</h2>
+            <p>Em Desenvolvimento.</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2>2022</h2>
+            <p>Em Desenvolvimento.</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2>2023</h2>
+            <p>Em Desenvolvimento.</p>
+        </div>
+    </div>
+</div>
+
+
+<button id="botao-retornar">Retornar</button>
+
+<script src="script.js"></script>
+
+
+</body>
+</html>
