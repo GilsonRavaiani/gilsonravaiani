@@ -3,18 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
-  /* background-color: rgb(100, 87, 223); */
-  background-image: url(https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/bd70641e-d4f5-43ac-9844-e7e2d045c21c); /* Substitua pelo URL ou caminho da sua imagem */
-  background-size: contain; /* Ajusta a imagem para caber dentro do elemento body */
-  background-repeat: no-repeat; /* Evita a repetição da imagem */
-  background-attachment: fixed; /* Mantém a imagem fixa enquanto a página rola */
-  background-position: center; /* Centraliza a imagem */
-  min-height: 100vh; /* Ensure the body takes at least the full viewport height */
+  background-image: url(https://github.com/GilsonRavaiani/gilsonravaiani/assets/101072367/bd70641e-d4f5-43ac-9844-e7e2d045c21c);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Centraliza o conteúdo verticalmente */
-  align-items: center; /* Centraliza o conteúdo horizontalmente */
+  justify-content: center;
+  align-items: center;
 }
 
 footer {
@@ -22,8 +22,33 @@ footer {
   color: #fff;
   padding: 10px;
   text-align: center;
-  position: relative; /* Use relative positioning */
-  margin-top: auto; /* Push the footer to the bottom */
+  position: relative;
+  margin-top: auto;
   width: 100%;
   font-size: 10px;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  body {
+    background-size: cover; /* Adjust background size for smaller screens */
+    padding: 20px; /* Add some padding for smaller screens */
+  }
+
+  footer {
+    font-size: 8px; /* Adjust footer font size for smaller screens */
+    padding: 8px; /* Adjust footer padding for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    background-size: cover; /* Adjust background size for very small screens */
+    padding: 10px; /* Add some padding for very small screens */
+  }
+
+  footer {
+    font-size: 6px; /* Adjust footer font size for very small screens */
+    padding: 5px; /* Adjust footer padding for very small screens */
+  }
 }
