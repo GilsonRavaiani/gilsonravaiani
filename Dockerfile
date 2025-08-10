@@ -1,20 +1,20 @@
-# Use a imagem oficial do Node.js
-FROM node:14
+# 🐳 Usa imagem oficial do Node.js com versão LTS
+FROM node:14-alpine
 
-# Cria o diretório de trabalho dentro do contêiner
+# 📁 Define diretório de trabalho
 WORKDIR /app
 
-# Copia os arquivos package.json e package-lock.json para o contêiner
+# 📦 Copia apenas os arquivos de dependência
 COPY package*.json ./
 
-# Instala as dependências do projeto
-RUN npm install
+# 🚀 Instala dependências com cache otimizado
+RUN npm ci --only=production
 
-# Copia o restante dos arquivos do projeto para o contêiner
+# 📂 Copia o restante do projeto
 COPY . .
 
-# Expõe a porta que sua aplicação irá rodar
+# 🔓 Expõe a porta da aplicação
 EXPOSE 3000
 
-# Comando para iniciar a aplicação
+# ▶️ Comando para iniciar o app
 CMD ["node", "index.js"]
