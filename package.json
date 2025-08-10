@@ -9,10 +9,15 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.21.2"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/GilsonRavaiani/gilsonravaiani"
-    }
+        "url": "git+https://github.com/GilsonRavaiani/gilsonravaiani.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/GilsonRavaiani/gilsonravaiani/issues"
+    },
+    "homepage": "https://github.com/GilsonRavaiani/gilsonravaiani#readme"
 }
